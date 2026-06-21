@@ -11,7 +11,7 @@ export default function Contact() {
         <a href="mailto:drusanov804@gmail.com">{locale === 'ru' ? 'Email: drusanov804@gmail.com' : 'Email: drusanov804@gmail.com'}</a>
       </p>
       <p>
-        <a href="tel:+9987714424">{locale === 'ru' ? 'Телефон: +998 77 144 24 69' : 'Phone: +998 77 144 24 69'}</a>
+        <a href="tel:+998771442469">{locale === 'ru' ? 'Телефон: +998 77 144 24 69' : 'Phone: +998 77 144 24 69'}</a>
       </p>
     </section>
   )
