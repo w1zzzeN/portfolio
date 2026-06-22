@@ -486,10 +486,6 @@ nav a.active {
   .card {
     min-height: auto;
   }
-  
-  .contlols {
-    
-  }
 }
 
 @media (max-width: 576px) {
@@ -506,6 +502,48 @@ nav a.active {
   .contact {
     padding-left: 1rem;
     padding-right: 1rem;
+  }
+}
+
+@media (max-width: 428px) and (min-width: 321px) {
+  .navbar {
+    padding: 0.55rem 0.95rem;
+  }
+
+  nav a {
+    padding: 0.35rem 0.65rem;
+    font-size: 0.95rem;
+  }
+
+  .controls button,
+  .controls .locale-toggle {
+    height: 34px;
+  }
+
+  .controls .locale-toggle {
+    padding: 0 10px;
+  }
+}
+
+@media (max-width: 620px) and (min-width: 321px) {
+  .nav-inner {
+    justify-content: center;
+  }
+
+  nav {
+    justify-content: center;
+  }
+
+  .controls {
+    margin-left: 0;
+    justify-content: center;
+  }
+
+  .brand {
+    width: 100%;
+    text-align: center;
+    order: -1;
+    margin-bottom: 0.5rem;
   }
 }
 
