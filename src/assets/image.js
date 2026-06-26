@@ -20,6 +20,9 @@ import reg_user_Img from './img/reg-user.jpg'
 import reg_user_name_Img from './img/reg-user-name.jpg'
 import avtosalon_info_Img from './img/avtosalon-info.jpg'
 import avtosalon_map_Img from './img/avtosalon-map.jpg'
+import website_Img from './img/website.jpg'
+import website_detal_Img from './img/website-2.jpg'
+import website_search_Img from './img/website-3.jpg'
 
 export {
     porsche_Img,
@@ -43,5 +46,8 @@ export {
     reg_user_Img,
     reg_user_name_Img,
     avtosalon_info_Img,
-    avtosalon_map_Img
+    avtosalon_map_Img,
+    website_Img,
+    website_detal_Img,
+    website_search_Img
 }
