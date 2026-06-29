@@ -21,7 +21,11 @@ export default function About() {
             <li>Node.js</li>
             <li>TypeScript</li>
             <li>Vite</li>       
-            <li>Git</li>       
+            <li>Git</li>      
+            <li>GitHub</li>      
+            <li>Figma</li>      
+            <li>Scss</li>      
+            <li>Axios</li>      
 
           </ul>
         </div>
